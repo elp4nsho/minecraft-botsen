@@ -1,0 +1,2 @@
+bot para minecraft java,
+ en realidad es un wrapper de mineflayer, ya que esta ultima es muy antigua asi que pase las funciones a async y await y entre otras cosas, mi idea seria dejar una carpeta de bots y ahi armar distintos bots, y desarmarlos depnediendo de las necesidades, por ahora solo exsten las posibilidades de mover a una direccion especifica cortar arboles hacer tuneles infinitos y botar todos los objetos
